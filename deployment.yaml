@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: vaibhavik25/java-app:latest
+          image: vaibhavik25/dockerjen:latest
           ports:
             - containerPort: 8080
 
